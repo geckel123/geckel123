@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geckel123
-- 👀 I’m interested in Web3/Games Development.
-- 🌱 I’m currently learning Google Ads.
+- 👀 I’m interested in Web/Web3/Games Development.
+- 🌱 I’m currently learning GCP/Spring Boot/Next.js.
 - 📫 How to reach me geckel@gmail.com
 
 <!---
